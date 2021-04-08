@@ -1,0 +1,27 @@
+{
+  "name": "mythic_plus_discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MythicPlusTeams.js",
+  "dependencies": {
+    "quick-chat-bot": "git+https://github.com/jamesqquick/Quick-Chat-Bot.git"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -L MythicPlusTeams.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwshive/mythic_plus_discord_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwshive/mythic_plus_discord_bot/issues"
+  },
+  "homepage": "https://github.com/jwshive/mythic_plus_discord_bot#readme"
+}
