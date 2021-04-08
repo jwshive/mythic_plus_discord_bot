@@ -4,6 +4,7 @@
   "description": "",
   "main": "MythicPlusTeams.js",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "quick-chat-bot": "git+https://github.com/jamesqquick/Quick-Chat-Bot.git"
   },
   "devDependencies": {
